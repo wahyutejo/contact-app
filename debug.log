@@ -1,0 +1,3 @@
+[0806/013340.468:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Setleaf\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
+[0806/033822.886:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0806/033822.886:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Setleaf\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
